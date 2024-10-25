@@ -11,4 +11,4 @@
 * `--open "filename.gml"`: Open a previously made file.
 
 ### Plot Example
-![E39 M5](e39%20m5.png)
+![E39 M5](example.png)
